@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[GOAT]]></title>
+		<description><![CDATA[GOAT PODCAST]]></description>
+		<link>https://podcasters.spotify.com/pod/show/hien-tai</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43524698/43524698-1745378293179-3703204056a81.jpg</url>
+			<title>GOAT</title>
+			<link>https://podcasters.spotify.com/pod/show/hien-tai</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Wed, 23 Apr 2025 03:23:39 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/1040601a8/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Hien Tai]]></author>
+		<copyright><![CDATA[Hien Tai]]></copyright>
+		<language><![CDATA[vi]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Hien Tai</itunes:author>
+		<itunes:summary>GOAT PODCAST</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Hien Tai</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Leisure">
+			<itunes:category text="Games"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43524698/43524698-1745378293179-3703204056a81.jpg"/>
+		<item>
+			<title><![CDATA[kubet]]></title>
+			<description><![CDATA[<p>Kubet, hay còn gọi là Ku Casino, là một trong những nhà cái cá cược trực tuyến uy tín hàng đầu tại châu Á. Được thành lập và điều hành bởi Tập đoàn giải trí danh tiếng JiuZhow, Kubet đã khẳng định vị thế của mình trong ngành công nghiệp giải trí trực tuyến. Trụ sở chính của Kubet đặt tại RCBC Plaza Tower, Metro Manila, Philippines, và hoạt động dưới giấy phép của PAGCOR – Tập đoàn giải trí và trò chơi Philippines, một tổ chức được sở hữu và điều hành bởi Chính phủ Philippines </p>
+]]></description>
+			<link>https://powerbiphilly.org/</link>
+			<guid isPermaLink="false">2f216bad-4a39-4583-8b66-04e0b1b0076a</guid>
+			<dc:creator><![CDATA[Hien Tai]]></dc:creator>
+			<pubDate>Wed, 23 Apr 2025 03:22:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1040601a8/podcast/play/101652325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-23%2F37281945-8080-f3ca-d725-85086bf504a2.mp3" length="168480" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Kubet, hay còn gọi là Ku Casino, là một trong những nhà cái cá cược trực tuyến uy tín hàng đầu tại châu Á. Được thành lập và điều hành bởi Tập đoàn giải trí danh tiếng JiuZhow, Kubet đã khẳng định vị thế của mình trong ngành công nghiệp giải trí trực tuyến. Trụ sở chính của Kubet đặt tại RCBC Plaza Tower, Metro Manila, Philippines, và hoạt động dưới giấy phép của PAGCOR – Tập đoàn giải trí và trò chơi Philippines, một tổ chức được sở hữu và điều hành bởi Chính phủ Philippines &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:00:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43524698/43524698-1745378293179-3703204056a81.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
